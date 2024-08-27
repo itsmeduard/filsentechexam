@@ -7,7 +7,7 @@
                     <div class="hidden">
                         Copyright © <span id="get-current-year">{{ date('Y') }}</span>
                     </div>
-                    Made by Filsen Eduard Valdez w/ Love(chine-check ba ito?)
+                    Made by Filsen Eduard Valdez w/ Love
                 </div>
             </div>
 

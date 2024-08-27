@@ -5,6 +5,7 @@ namespace App\Http\Livewire\User;
 use App\Models\Role;
 use App\Models\User;
 use Livewire\Component;
+use Illuminate\Support\Facades\DB;
 
 class Create extends Component
 {
@@ -36,7 +37,7 @@ class Create extends Component
 //
 //        return redirect()->route('admin.users.index');
 //    }
-    use Illuminate\Support\Facades\DB;
+
 
     public function submit()
     {
